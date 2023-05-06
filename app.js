@@ -1,5 +1,4 @@
 import fs from 'fs';
-import cryptoJs from 'crypto-js';
 import sha256 from 'crypto-js/sha256.js';
 import process from 'process';
 
